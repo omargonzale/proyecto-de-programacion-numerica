@@ -36,6 +36,7 @@
 
 1. [interpolacion lineal](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/interpolacion_lineal.py)
 2. [interpolacion cuadratica](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/interpolacion_cuadratica.py)
-3. [interpolacion de newton](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/interpolacion_de_newton.py)
+3. [interpolacion de newton](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/interpolacion_de_newton.py)![image](https://github.com/user-attachments/assets/c5564e94-88dc-4e08-b364-1b3a91291539)
+
 4. [regresion lineal](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/regresion_lineal.py)
 
