@@ -1,6 +1,6 @@
 # Proyecto Final de programacion numerica
 
-*tarea 1:repaso de programacion 
+*Tarea 1:repaso de programacion 
 
 1. [problema 1]
 2. [problema 2]
@@ -9,7 +9,7 @@
 5. [problema 5]
 6. [problema 6]
 
-*tarea 2:raices de ecuaciones parte 1
+*Tarea 2:raices de ecuaciones parte 1
 
 1. [biseccion]
 2. [newton-raphson]
