@@ -19,6 +19,10 @@
 2. [newton-raphson](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/newton-raphson.py)
 3. [secante](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/secante.py)
 
+
+![image](https://github.com/user-attachments/assets/74df1a27-0622-441c-a149-e1cea70102b3)
+
+
 * Tarea 3:raices de ecuaciones, parte2
 
 1. [regla falsa](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/regla_falsa.py)                    
@@ -36,7 +40,7 @@
 3. [matriz 3](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/matriz_3.py)                           
 4. [matriz 4](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/matriz_4.py)
 
-![image](https://github.com/user-attachments/assets/808bc1cc-33a8-4486-85b3-3b855547e523)
+![image](https://github.com/user-attachments/assets/71a53486-25cb-4ca4-b692-0c5305da7219)
 
 
 
@@ -44,6 +48,9 @@
 
 1. [diferenciacion](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/Diferenciacion.py)
 2. [metodos_simpson](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/metodos_simpson.py)
+
+![image](https://github.com/user-attachments/assets/01d2f4de-fbef-4f7f-81a2-f58834628cd6)
+
 
 * Tarea 6:interpolacion y regresion numericas
 
