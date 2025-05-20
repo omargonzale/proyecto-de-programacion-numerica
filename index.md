@@ -40,7 +40,7 @@
 3. [matriz 3](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/matriz_3.py)                           
 4. [matriz 4](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/matriz_4.py)
 
-![image](https://github.com/user-attachments/assets/71a53486-25cb-4ca4-b692-0c5305da7219)
+![image](https://github.com/user-attachments/assets/0ec9cf8d-0856-4760-9667-60893e3e17f4)
 
 
 
