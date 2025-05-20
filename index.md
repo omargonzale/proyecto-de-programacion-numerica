@@ -40,7 +40,7 @@
 
 
 
-* Tarea 5:integracion y diferemciacion numerica
+* Tarea 5:integracion y diferenciacion numerica
 
 1. [diferenciacion](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/Diferenciacion.py)
 2. [metodos_simpson](https://github.com/omargonzale/proyecto-de-programacion-numerica/blob/main/metodos_simpson.py)
